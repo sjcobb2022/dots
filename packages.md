@@ -1,5 +1,7 @@
 PARU
 
+USE BTFRS FOR INSTALL 
+
 WIFI COMMANDS
 
 https://gist.github.com/jackweinbender/80fcc0d42b503ffb99119465a6132311
