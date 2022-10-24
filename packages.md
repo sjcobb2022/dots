@@ -1,9 +1,15 @@
 PARU
 
+WIFI COMMANDS
+
+https://gist.github.com/jackweinbender/80fcc0d42b503ffb99119465a6132311
+
 discord
 obsidian
 OBS (use flatpak)
 wezterm (remove default yoru config since need nano access)
+
+gnome disk utility because it is useful
 
 Astronvim
 
