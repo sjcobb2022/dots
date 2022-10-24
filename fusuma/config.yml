@@ -1,0 +1,11 @@
+swipe:
+  4:
+    left:
+      workspace: "prev"
+    right:
+      workspace: "next"
+
+plugin:
+  executors:
+    wmctrl_executor:
+      wrap-navigation: true
