@@ -5,6 +5,9 @@ obsidian
 OBS (use flatpak)
 wezterm (remove default yoru config since need nano access)
 
+Astronvim
+
+bottom, ripgrep, lazygit, listed on website...
 
 fusuma with fusuma-wmctrl
 
@@ -32,6 +35,11 @@ astro_nvim_user_config  example  experimentation  houdini  houdini-broken-exampl
 mountvol P: /s  
 
 bcdedit /set "{bootmgr}" /EFI/endeavoros
+
+telegram
+
+login with firefox and stuff
+
 
 TODO:
 spotifyd + spotify-tui
